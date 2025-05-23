@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
 - `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Karbon](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
 - `MDY` [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
-- `MDY` [FeedFlow](https://github.com/prof18/feed-flow) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -241,7 +241,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🪦`</sup>
 - `MY` [Honista](https://t.me/Honistagram)
 - `MY` [MyInsta](https://t.me/instasmashrepo)
-- 
+-
 #### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> **Telegram**
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
@@ -502,6 +502,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
+- `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [SoundCrowd](https://github.com/soundcrowd/soundcrowd) <sup>`FOSS`</sup>
